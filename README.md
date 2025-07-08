@@ -1,48 +1,53 @@
-# Hi there, I'm Shrx14 👋
+<h1 align="center">Hi, I'm Shrx14 👋</h1>
+<h3 align="center">Passionate developer, lifelong learner, and open-source enthusiast.</h3>
 
-Welcome to my GitHub profile!  
-I'm passionate about building cool projects, learning new technologies, and collaborating with the developer community.
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shrx14" alt="Shrx14" /></a> </p> -->
 
----
+- 🔭 I’m currently working on some exciting new projects!
+- 🌱 I’m always learning something new in tech and life.
+- 👯 I’m open to collaborating on open-source and impactful projects.
+- 📫 How to reach me: **your.email@example.com** <!-- Update with your real contact! -->
+- ⚡ Fun fact: I believe every bug is just a misunderstood feature. 
 
-## 🚀 About Me
-
-- 💻 I love coding, open-source, and exploring new tech stacks.
-- 🛠️ My favorite tools & languages:  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-- 🔎 Always curious and eager to learn something new!
-- 🌱 Currently diving deeper into cloud technologies and scalable architectures.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrx14&show_icons=true&theme=radical" alt="Shrx14's GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Shrx14&theme=radical&hide_border=true" alt="Shrx14's GitHub Streak" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shrx14 LinkedIn" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/your-leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shrx14 LeetCode" height="30" width="40" /></a>
+<!-- Add more links as you wish -->
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <!-- Add or remove languages/tools as needed -->
+</p>
 
-## ✨ Featured Projects
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrx14&show_icons=true&theme=radical" alt="Shrx14's GitHub Stats" />
+</p>
 
-- 🚧 _Pinned repositories coming soon!_
-- 🌟 Check out my repositories below and feel free to contribute or leave a ⭐️!
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrx14&theme=radical" alt="Shrx14's GitHub Streak" /></p> -->
 
----
-
-## 📫 How to reach me
-
-- [GitHub Discussions](https://github.com/Shrx14)
-- _More contact info coming soon!_
-
----
-
-Thanks for visiting! 😊  
-Let's build something amazing together.
+<!--
+**Shrx14/Shrx14** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
