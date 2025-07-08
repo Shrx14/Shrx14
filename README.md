@@ -1,18 +1,16 @@
-<h1 align="center">Hi, I'm Shrx14 👋</h1>
+s<h1 align="center">Hi, I'm Shrx14 👋</h1>
 <h3 align="center">Passionate developer, lifelong learner, and open-source enthusiast.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shrx14" alt="Shrx14" /></a> </p> -->
 
-- 🔭 I’m currently working on some exciting new projects!
 - 🌱 I’m always learning something new in tech and life.
 - 👯 I’m open to collaborating on open-source and impactful projects.
-- 📫 How to reach me: **your.email@example.com** <!-- Update with your real contact! -->
+- 📫 How to reach me: **shreyas141105@gmail.com** <!-- Update with your real contact! -->
 - ⚡ Fun fact: I believe every bug is just a misunderstood feature. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shrx14 LinkedIn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/your-leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shrx14 LeetCode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shreyas-sawant-127548232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shrx14 LinkedIn" height="30" width="40" /></a>
 <!-- Add more links as you wish -->
 </p>
 
