@@ -39,6 +39,7 @@
   <!-- Add or remove languages/tools as needed -->
 </p>
 ---
+
 ## ✨ Featured Projects
 
 - 🚧 _Pinned repositories coming soon!_
