@@ -1,11 +1,10 @@
-s<h1 align="center">Hi, I'm Shrx14 👋</h1>
+<h1 align="center">Hi, I'm Shrx14 👋</h1>
 <h3 align="center">Passionate developer, lifelong learner, and open-source enthusiast.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shrx14" alt="Shrx14" /></a> </p> -->
 
-- 🌱 I’m always learning something new in tech and life.
-- 👯 I’m open to collaborating on open-source and impactful projects.
-- 📫 How to reach me: **shreyas141105@gmail.com** <!-- Update with your real contact! -->
+- 🔎 Always curious and eager to learn something new!
+- 🌱 Currently diving deeper into cloud technologies and scalable architectures.
 - ⚡ Fun fact: I believe every bug is just a misunderstood feature. 
 
 <h3 align="left">Connect with me:</h3>
@@ -39,6 +38,20 @@ s<h1 align="center">Hi, I'm Shrx14 👋</h1>
   </a>
   <!-- Add or remove languages/tools as needed -->
 </p>
+---
+## ✨ Featured Projects
+
+- 🚧 _Pinned repositories coming soon!_
+- 🌟 Check out my repositories below and feel free to contribute or leave a ⭐️!
+
+---
+
+## 📫 How to reach me
+
+- [GitHub Discussions](https://github.com/Shrx14)
+- 📫 Mail: **shreyas141105@gmail.com** 
+
+---
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrx14&show_icons=true&theme=radical" alt="Shrx14's GitHub Stats" />
@@ -49,3 +62,6 @@ s<h1 align="center">Hi, I'm Shrx14 👋</h1>
 <!--
 **Shrx14/Shrx14** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+Thanks for visiting! 😊  
+Let's build something amazing together.
+
